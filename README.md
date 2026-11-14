@@ -74,8 +74,8 @@ Voice communication for an interactive race engineer, designed to deliver concis
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tiaszz-03&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4058&icon_color=ff4058&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub profile statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiaszz-03&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4058&text_color=c9d1d9&langs_count=6" height="165" alt="Most used repository languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=Tiaszz-03&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4058&icon_color=ff4058&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub profile statistics" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tiaszz-03&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4058&text_color=c9d1d9&langs_count=6" height="165" alt="Most used repository languages" />
 
 <sub>Statistics reflect public GitHub data and may not include private work.</sub>
 
