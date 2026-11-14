@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Tiaszz-03/Tiaszz-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mathias Rujan
+### Software Engineering · Artificial Intelligence · Motorsport
 
-Here are some ideas to get you started:
+*Engineering intelligence. Driven by performance.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=550&lines=Software+Engineering;AI+%26+Machine+Learning;Building+intelligent+systems;Passionate+about+motorsport)
+
+</div>
+
+---
+
+### About Me
+
+Software Engineering student at VIA University College, Denmark, specializing in Artificial Intelligence and Machine Learning.
+
+I build intelligent, data-driven systems that bridge software engineering, real-time performance and real-world applications.
+
+- 🎓 Software Technology Engineering @ VIA
+- 🏎️ Formula Student Aarhus
+- 🧠 AI, Machine Learning & Predictive Analytics
+- ⚡ Real-time systems and telemetry
+- 📍 Horsens, Denmark
+
+### Languages & Tools
+
+![Skills](https://skillicons.dev/icons?i=python,cs,ts,js,postgres,docker,git,github,vscode,visualstudio)
+
+### Featured Projects
+
+**🏎️ F1 26 — AI Race Engineer**
+
+An intelligent race engineering system using real-time telemetry, predictive models and strategic decision-making to support racing performance.
+
+**⚡ Formula Student Aarhus**
+
+Working on engineering and software challenges for a Formula Student racing team.
+
+### GitHub Statistics
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Tiaszz-03&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+**Driven by curiosity. Built for performance.**
+
+[LinkedIn](https://www.linkedin.com/in/mathias-rujan-14)
+
+</div>
