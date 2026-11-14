@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Mathias Rujan — Software Engineering, Artificial Intelligence and Motorsport">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090d14"/><stop offset=".62" stop-color="#111824"/><stop offset="1" stop-color="#090c12"/></linearGradient>
+ <linearGradient id="red" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff4058"/><stop offset="1" stop-color="#d31c37"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a7b5cd" stroke-opacity=".065"/></pattern>
+ <clipPath id="clip"><rect x="0" y="0" width="1200" height="360" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="360" fill="url(#bg)"/><rect width="1200" height="360" fill="url(#grid)"/>
+<path d="M0 0H1200V6H0Z" fill="url(#red)"/>
+<path d="M790 0L1200 0V360H910L750 205Z" fill="#ee354d" opacity=".045"/>
+<g fill="none" stroke="#ea314c" opacity=".65" stroke-width="2">
+ <path d="M805 115l70-52 85 20 57-24 76 36 65-25"/>
+ <path d="M805 126l70-52 85 20 57-24 76 36 65-25" opacity=".18"/>
+</g>
+<g stroke="#929fb4" stroke-opacity=".25" fill="none">
+ <path d="M800 232h40l30-48 40 79 41-65 30 24h110"/>
+ <path d="M800 278h315"/><path d="M800 288h315" opacity=".35"/>
+ <circle cx="1010" cy="170" r="116" stroke-dasharray="3 9"/><circle cx="1010" cy="170" r="91" opacity=".45"/>
+</g>
+<g font-family="Consolas,Menlo,monospace" fill="#7d8a9c" font-size="13" letter-spacing="2">
+ <text x="66" y="63">// BUILDING SYSTEMS THAT THINK</text><text x="804" y="60">01 / ENGINEERED TO PERFORM</text>
+ <text x="805" y="325">DATA  /  DECISIONS  /  SPEED</text>
+</g>
+<text x="63" y="164" fill="#f3f6fa" font-family="Arial,Helvetica,sans-serif" font-size="65" font-weight="800" letter-spacing="1.4">MATHIAS</text>
+<text x="63" y="231" fill="#f3f6fa" font-family="Arial,Helvetica,sans-serif" font-size="65" font-weight="800" letter-spacing="1.4">RUJAN<tspan fill="#ed3650">.</tspan></text>
+<rect x="66" y="255" width="55" height="4" rx="2" fill="url(#red)"/>
+<text x="135" y="263" fill="#b9c3d2" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="2.0">SOFTWARE  /  AI &amp; ML  /  MOTORSPORT</text>
+<text x="66" y="318" fill="#7d8a9c" font-family="Consolas,Menlo,monospace" font-size="13" letter-spacing="1.2">HORSENS, DENMARK  •  VIA UNIVERSITY COLLEGE</text>
+<g fill="#ed3650"><circle cx="805" cy="115" r="4"/><circle cx="875" cy="63" r="4"/><circle cx="960" cy="83" r="4"/><circle cx="1017" cy="59" r="4"/><circle cx="1093" cy="95" r="4"/></g>
+</g></svg>

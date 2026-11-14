@@ -1,47 +1,83 @@
 <div align="center">
 
-# Mathias Rujan
-### Software Engineering · Artificial Intelligence · Motorsport
+<img src="assets/banner.svg" width="100%" alt="Mathias Rujan | Software Engineering · AI & ML · Motorsport" />
 
-*Engineering intelligence. Driven by performance.*
+<br />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=550&lines=Software+Engineering;AI+%26+Machine+Learning;Building+intelligent+systems;Passionate+about+motorsport)
+**Software engineering student · AI & ML enthusiast · Motorsport-driven builder**
+
+I turn telemetry into insight, data into decisions, and ideas into working systems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathias-rujan-143595240/)
+[![GitHub](https://img.shields.io/badge/GitHub-Tiaszz--03-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tiaszz-03)
+[![Location](https://img.shields.io/badge/Based_in-Horsens%2C_Denmark-DA304A?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Horsens/)
 
 </div>
 
 ---
 
-### About Me
+### `01 / ABOUT`
 
-Software Engineering student at VIA University College, Denmark, specializing in Artificial Intelligence and Machine Learning.
+I'm a **Software Technology Engineering** student at **VIA University College**, specializing in **Artificial Intelligence & Machine Learning**. I enjoy building end-to-end systems where algorithms meet real-world constraints: low-latency data, predictive models, clean software architecture, and useful interfaces.
 
-I build intelligent, data-driven systems that bridge software engineering, real-time performance and real-world applications.
+- 🏁 Building an **AI Race Engineer for F1 26** as my bachelor's project.
+- ⚡ Part of **Formula Student Aarhus**, working on engineering challenges around a real race car.
+- 🧠 Interested in **machine learning, real-time telemetry, intelligent decision systems, and software architecture**.
+- 📍 Based in **Horsens, Denmark**.
 
-- 🎓 Software Technology Engineering @ VIA
-- 🏎️ Formula Student Aarhus
-- 🧠 AI, Machine Learning & Predictive Analytics
-- ⚡ Real-time systems and telemetry
-- 📍 Horsens, Denmark
+### `02 / FEATURED WORK`
 
-### Languages & Tools
-
-![Skills](https://skillicons.dev/icons?i=python,cs,ts,js,postgres,docker,git,github,vscode,visualstudio)
-
-### Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **🏎️ F1 26 — AI Race Engineer**
 
-An intelligent race engineering system using real-time telemetry, predictive models and strategic decision-making to support racing performance.
+A real-time race engineering system that processes game telemetry and supports strategic decisions through data, modeling, and radio communication.
 
-**⚡ Formula Student Aarhus**
+**Focus:** telemetry · predictive analytics · strategy · real-time systems
 
-Working on engineering and software challenges for a Formula Student racing team.
+[Backend ↗](https://github.com/Tiaszz-03/BachelorProject_BE) · [Frontend ↗](https://github.com/Tiaszz-03/BachelorProject_FE)
 
-### GitHub Statistics
+</td>
+<td width="50%" valign="top">
+
+**🎙️ Race Engineer Radio**
+
+Voice communication for an interactive race engineer, designed to deliver concise and context-aware race information.
+
+**Focus:** Python · audio pipelines · integration · user experience
+
+[Repository ↗](https://github.com/Tiaszz-03/ElevenLabs-Radio)
+
+</td>
+</tr>
+</table>
+
+**🏁 Formula Student Aarhus** — Engineering experience on a student motorsport team, connecting electronics, software, testing, and practical problem-solving.
+
+### `03 / TOOLBOX`
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Tiaszz-03&theme=dark&hide_border=true)
+**Languages & development**
+
+<img src="https://skillicons.dev/icons?i=python,cs,ts,js,html,css,git,github,vscode,visualstudio&perline=10" alt="Python, C#, TypeScript, JavaScript, HTML, CSS, Git, GitHub, VS Code, Visual Studio" />
+
+**Data & infrastructure**
+
+<img src="https://skillicons.dev/icons?i=postgres,docker&perline=8" alt="PostgreSQL and Docker" />
+
+</div>
+
+### `04 / GITHUB ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tiaszz-03&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff4058&icon_color=ff4058&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub profile statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiaszz-03&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff4058&text_color=c9d1d9&langs_count=6" height="165" alt="Most used repository languages" />
+
+<sub>Statistics reflect public GitHub data and may not include private work.</sub>
 
 </div>
 
@@ -49,8 +85,8 @@ Working on engineering and software challenges for a Formula Student racing team
 
 <div align="center">
 
-**Driven by curiosity. Built for performance.**
+**ENGINEERING INTELLIGENCE. DRIVEN BY PERFORMANCE.**
 
-[LinkedIn](https://www.linkedin.com/in/mathias-rujan-14)
+<sub>Build. Measure. Improve. Repeat.</sub>
 
 </div>
